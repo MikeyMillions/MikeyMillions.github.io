@@ -19,7 +19,7 @@ body {
 
 .logo {
   display: flex;
-  padding-left: 30px;
+  padding-left: 31px;
   flex-grow: 1;
   font-family: verdana;
   color: MediumAquamarine;
